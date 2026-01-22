@@ -1,14 +1,13 @@
-<h1 align="left">Hey 👋What's Up?</h1>
 
-###
+## Hi there! 👋
 
-<h3 align="left">I'm Rian Prasetiyo<br><br>Data Analytics & BI Analyst, I design high-impact dashboards, automate reporting pipelines, and translate complex data into clear, actionable insights.</h3>
+I'm Rian Prasetiyo, a passionate **Business Intelligence Analyst** from **East Java, Indonesia**. I love transforming data into actionable insights and building data-driven strategies to help businesses thrive!
 
-###
+## About Me
 
-<h5 align="left">Proficiency in the following tools:</h5>
+As a Business Intelligence Analyst, I specialize in analyzing complex datasets to drive business success. I design high-impact dashboards, automate reporting pipelines, and translate complex data into clear actionable insights. I enjoy working with data visualization tools and statistical analysis to deliver insights that matter. actionable insights
 
-###
+## Proficiency in the following tools:
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
@@ -30,9 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="60" alt="trello logo"  />
 </div>
 
-###
-
-<h6 align="left">Let’s get connected!</h6>
+## Let’s get connected!
 
 ###
 
@@ -44,23 +41,39 @@
   <img src="https://img.shields.io/static/v1?message=Visual%20Studio%20Marketplace&logo=visualstudio&label=&color=e2165e&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="visualstudio logo"  />
 </div>
 
+## Top Projects
+
+- [rayennn-bi](https://github.com/rayennn-bi/rayennn-bi): A repository showcasing my work as a Business Intelligence Analyst. **Stars**: 1, **Language**: N/A
+- [AB-Testing-campaign](https://github.com/rayennn-bi/AB-Testing-campaign): An analysis of A/B testing strategies. **Stars**: 0, **Language**: Jupyter Notebook
+- [Customer-Segmentation-with-K-Means-Clustering](https://github.com/rayennn-bi/Customer-Segmentation-with-K-Means-Clustering): A project demonstrating customer segmentation techniques using K-Means clustering. **Stars**: 0, **Language**: Jupyter Notebook
+- [Sales-forecasting-Retail-case-study](https://github.com/rayennn-bi/Sales-forecasting-Retail-case-study): A retail sales forecasting project utilizing time series analysis. **Stars**: 0, **Language**: Jupyter Notebook
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rayennn-bi&show_icons=true&theme=radical)
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=rayennn-bi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=rayennn-bi&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
+📊 **Public Repositories**: 4  
+👥 **Followers**: 0  
+🔄 **Following**: 0  
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rayennn-bi/rayennn-bi/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rayennn-bi/rayennn-bi/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rayennn-bi/rayennn-bi/output/pacman-contribution-graph.svg">
-</picture>
+## Recent Activity
 
-###
+Here are some of my latest activities on GitHub:
+- Pushed changes to [rayennn-bi](https://github.com/rayennn-bi/rayennn-bi) on **Jan 22**.
+- Started watching [rayennn-bi](https://github.com/rayennn-bi/rayennn-bi) on **Jan 22**.
+- Pushed changes to [AB-Testing-campaign](https://github.com/rayennn-bi/AB-Testing-campaign) on **Jan 07**.
+- Pushed changes to [Customer-Segmentation-with-K-Means-Clustering](https://github.com/rayennn-bi/Customer-Segmentation-with-K-Means-Clustering) on **Jan 06**.
 
-<h5 align="left">Below are some of the projects I’ve worked on. Enjoy exploring them!</h5>
+## Latest Blog Posts
 
-###
+No recent blog posts available.
+
+## Connect with Me
+
+{"linkedin":"https://linkedin.com/in/rianprasetiyo19"}
