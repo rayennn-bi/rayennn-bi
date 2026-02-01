@@ -40,7 +40,7 @@ I'm Rian Prasetiyo, a passionate **Business Intelligence Analyst**. As a Busines
 ## Top Projects
 
 - [AB-Testing-campaign](https://github.com/rayennn-bi/AB-Testing-campaign): An analysis of A/B testing strategies. **Stars**: 0, **Language**: Jupyter Notebook
-- [Customer-Segmentation-with-K-Means-Clustering](https://github.com/rayennn-bi/Customer-Segmentation-with-K-Means-Clustering): A project demonstrating customer segmentation techniques using K-Means clustering. **Stars**: 0, **Language**: Jupyter Notebook
+- [Customer-Segmentation](https://github.com/rayennn-bi/Customer-Segmentation): A project demonstrating customer segmentation techniques using K-Means clustering. **Stars**: 0, **Language**: Jupyter Notebook
 - [Sales-forecasting-Retail-case-study](https://github.com/rayennn-bi/Sales-forecasting-Retail-case-study): A retail sales forecasting project utilizing time series analysis. **Stars**: 0, **Language**: Jupyter Notebook
 
 ## GitHub Stats
