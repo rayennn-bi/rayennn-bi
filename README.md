@@ -39,6 +39,7 @@ I'm Rian Prasetiyo, a passionate **Business Intelligence Analyst**. As a Busines
 
 ## Top Projects
 
+- [Dashboard-Sales-and-Shipment-Performance](https://github.com/rayennn-bi/Dashboard-sales-and-shipment-performance): An develop of Dashboard sales & shipment performance using power bi. **Stars**: 0, **Tools**: Postgresql, Power BI, Figma
 - [AB-Testing-campaign](https://github.com/rayennn-bi/AB-Testing-campaign): An analysis of A/B testing strategies. **Stars**: 0, **Language**: Jupyter Notebook
 - [Customer-Segmentation](https://github.com/rayennn-bi/Customer-Segmentation): A project demonstrating customer segmentation techniques using K-Means clustering. **Stars**: 0, **Language**: Jupyter Notebook
 - [Sales-forecasting-Retail-case-study](https://github.com/rayennn-bi/Sales-forecasting-Retail-case-study): A retail sales forecasting project utilizing time series analysis. **Stars**: 0, **Language**: Jupyter Notebook
