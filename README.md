@@ -6,6 +6,8 @@ I'm Rian Prasetiyo, a passionate **Business Intelligence Analyst**. As a Busines
 ## Proficiency in the following tools:
 
 <div align="left">
+  <img src="https://cdn.simpleicons.org/powerbi" height="60"/>
+  <img src="https://cdn.simpleicons.org/microsoftexcel" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
