@@ -6,8 +6,6 @@ I'm Rian Prasetiyo, a passionate **Business Intelligence Analyst**. As a Busines
 ## Proficiency in the following tools:
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/powerbi" height="60"/>
-  <img src="https://cdn.simpleicons.org/microsoftexcel" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
@@ -36,19 +34,16 @@ I'm Rian Prasetiyo, a passionate **Business Intelligence Analyst**. As a Busines
   <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Visual%20Studio%20Marketplace&logo=visualstudio&label=&color=e2165e&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="visualstudio logo"  />
 </div>
 
 ## Top Projects
 
-- [Dashboard-Sales-and-Shipment-Performance](https://github.com/rayennn-bi/Dashboard-sales-and-shipment-performance): An develop of Dashboard sales & shipment performance using power bi. **Stars**: 0, **Tools**: Postgresql, Power BI, Figma
+- [Dashboard-Sales-and-Shipment-Performance](https://github.com/rayennn-bi/Dashboard-sales-and-shipment-performance): Develop Dashboard sales & shipment performance using power bi. **Stars**: 0, **Tools**: Postgresql, Power BI, Figma
 - [AB-Testing-campaign](https://github.com/rayennn-bi/AB-Testing-campaign): An analysis of A/B testing strategies. **Stars**: 0, **Language**: Jupyter Notebook
 - [Customer-Segmentation](https://github.com/rayennn-bi/Customer-Segmentation): A project demonstrating customer segmentation techniques using K-Means clustering. **Stars**: 0, **Language**: Jupyter Notebook
 - [Sales-forecasting-Retail-case-study](https://github.com/rayennn-bi/Sales-forecasting-Retail-case-study): A retail sales forecasting project utilizing time series analysis. **Stars**: 0, **Language**: Jupyter Notebook
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rayennn-bi&show_icons=true&theme=radical)
-###
+##
 
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=rayennn-bi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
@@ -72,6 +67,3 @@ Here are some of my latest activities on GitHub:
 
 No recent blog posts available.
 
-## Connect with Me
-
-{"linkedin":"https://linkedin.com/in/rianprasetiyo19"}
