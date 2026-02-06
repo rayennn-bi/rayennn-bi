@@ -55,14 +55,6 @@ I'm Rian Prasetiyo, a passionate **Business Intelligence Analyst**. As a Busines
 👥 **Followers**: 0  
 🔄 **Following**: 0  
 
-## Recent Activity
-
-Here are some of my latest activities on GitHub:
-- Pushed changes to [rayennn-bi](https://github.com/rayennn-bi/rayennn-bi) on **Jan 22**.
-- Started watching [rayennn-bi](https://github.com/rayennn-bi/rayennn-bi) on **Jan 22**.
-- Pushed changes to [AB-Testing-campaign](https://github.com/rayennn-bi/AB-Testing-campaign) on **Jan 07**.
-- Pushed changes to [Customer-Segmentation-with-K-Means-Clustering](https://github.com/rayennn-bi/Customer-Segmentation-with-K-Means-Clustering) on **Jan 06**.
-
 ## Latest Blog Posts
 
 No recent blog posts available.
