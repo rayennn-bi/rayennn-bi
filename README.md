@@ -25,23 +25,20 @@ I'm Rian Prasetiyo, a passionate **Business Intelligence Analyst**. As a Busines
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="60" alt="trello logo"  />
 </div>
 
-## Let’s get connected!
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-</div>
-
 ## Top Projects
 
-- [Dashboard-Sales-and-Shipment-Performance](https://github.com/rayennn-bi/Dashboard-sales-and-shipment-performance): Develop Dashboard sales & shipment performance using power bi. **Stars**: 0, **Tools**: Postgresql, Power BI, Figma
-- [AB-Testing-campaign](https://github.com/rayennn-bi/AB-Testing-campaign): An analysis of A/B testing strategies. **Stars**: 0, **Language**: Jupyter Notebook
-- [Customer-Segmentation](https://github.com/rayennn-bi/Customer-Segmentation): A project demonstrating customer segmentation techniques using K-Means clustering. **Stars**: 0, **Language**: Jupyter Notebook
-- [Sales-forecasting-Retail-case-study](https://github.com/rayennn-bi/Sales-forecasting-Retail-case-study): A retail sales forecasting project utilizing time series analysis. **Stars**: 0, **Language**: Jupyter Notebook
+- [Dashboard-Sales-and-Shipment-Performance](https://github.com/rayennn-bi/Dashboard-sales-and-shipment-performance): Develop Dashboard sales & shipment performance using power bi. **Stars**: 0,
+
+  **Tools**: Postgresql, Power BI, Figma
+- [AB-Testing-campaign](https://github.com/rayennn-bi/AB-Testing-campaign): An analysis of A/B testing strategies.
+
+  **Language**: Jupyter Notebook
+- [Customer-Segmentation](https://github.com/rayennn-bi/Customer-Segmentation): A project demonstrating customer segmentation techniques using K-Means clustering. 
+
+  **Language**: Jupyter Notebook
+- [Sales-forecasting-Retail-case-study](https://github.com/rayennn-bi/Sales-forecasting-Retail-case-study): A retail sales forecasting project utilizing time series analysis.
+
+  **Language**: Jupyter Notebook
 
 ##
 
