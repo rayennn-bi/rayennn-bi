@@ -27,16 +27,29 @@ I'm Rian Prasetiyo, a passionate **Business Intelligence Analyst**. As a Busines
 
 ## Top Projects
 
-- [Dashboard-Sales-and-Shipment-Performance](https://github.com/rayennn-bi/Dashboard-sales-and-shipment-performance): Develop Dashboard sales & shipment performance using power bi. **Stars**: 0,
+- [Dashboard-Sales-and-Shipment-Performance](https://github.com/rayennn-bi/Dashboard-sales-and-shipment-performance)
+
+  **Desc** : Developed an interactive sales and shipment performance dashboard using Power BI.
 
   **Tools**: Postgresql, Power BI, Figma
-- [AB-Testing-campaign](https://github.com/rayennn-bi/AB-Testing-campaign): An analysis of A/B testing strategies.
+- [SQL Optimization & Performance Visualization Project](https://github.com/rayennn-bi/SQL_Optimatization_Project/tree/main)
+
+  **Desc** : This project focuses on optimizing SQL queries to improve data processing efficiency and transforming the results into interactive visualizations to analyze business performance, identify key insights, and support data-driven decision making.
+
+  **Tools**: Postgresql, Power BI
+- [AB-Testing-campaign](https://github.com/rayennn-bi/AB-Testing-campaign)
+  
+  **Desc** : An analysis of A/B testing strategies.
 
   **Language**: Jupyter Notebook
-- [Customer-Segmentation](https://github.com/rayennn-bi/Customer-Segmentation): A project demonstrating customer segmentation techniques using K-Means clustering. 
+- [Customer-Segmentation](https://github.com/rayennn-bi/Customer-Segmentation)
+
+  **Desc** : A project demonstrating customer segmentation techniques using K-Means clustering. 
 
   **Language**: Jupyter Notebook
-- [Sales-forecasting-Retail-case-study](https://github.com/rayennn-bi/Sales-forecasting-Retail-case-study): A retail sales forecasting project utilizing time series analysis.
+- [Sales-forecasting-Retail-case-study](https://github.com/rayennn-bi/Sales-forecasting-Retail-case-study)
+
+  **Desc** : A retail sales forecasting project utilizing time series analysis.
 
   **Language**: Jupyter Notebook
 
