@@ -44,7 +44,7 @@ I'm Rian Prasetiyo, a passionate **Business Intelligence Analyst**. As a Busines
   **Language**: Jupyter Notebook
 - [Customer-Segmentation](https://github.com/rayennn-bi/Customer-Segmentation)
 
-  **Desc** : A project demonstrating customer segmentation techniques using K-Means clustering. 
+  **Desc** : A project demonstrating customer behavioral financial segmentation techniques using K-Means clustering. 
 
   **Language**: Jupyter Notebook
 - [Sales-forecasting-Retail-case-study](https://github.com/rayennn-bi/Sales-forecasting-Retail-case-study)
