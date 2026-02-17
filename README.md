@@ -42,7 +42,7 @@ I'm Rian Prasetiyo, a passionate **Business Intelligence Analyst**. As a Busines
 
   **Desc** : Membuat dashboard analitik strategi sales untuk meningkatkan pertumbuhuan penjualan Quarter 4 sebesar 20%.
   
-  **Tools**: Postgresql, Power BI, figma
+  **Tools**: Postgresql, python, Power BI, figma
 - [AB-Testing-campaign](https://github.com/rayennn-bi/AB-Testing-campaign)
   
   **Desc** : An analysis of A/B testing strategies.
