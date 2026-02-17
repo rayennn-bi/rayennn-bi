@@ -37,6 +37,12 @@ I'm Rian Prasetiyo, a passionate **Business Intelligence Analyst**. As a Busines
   **Desc** : This project focuses on optimizing SQL queries to improve data processing efficiency and transforming the results into interactive visualizations to analyze business performance, identify key insights, and support data-driven decision making.
 
   **Tools**: Postgresql, Power BI
+
+- [Dashboard - Monitoring KPI Sales](https://github.com/rayennn-bi/Driving-20-Q4-Revenue-Growth-Through-Data-Driven-Sales-Dashboard)
+
+  **Desc** : Membuat dashboard analitik strategi sales untuk meningkatkan pertumbuhuan penjualan Quarter 4 sebesar 20%.
+  
+  **Tools**: Postgresql, Power BI, figma
 - [AB-Testing-campaign](https://github.com/rayennn-bi/AB-Testing-campaign)
   
   **Desc** : An analysis of A/B testing strategies.
