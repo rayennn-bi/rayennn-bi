@@ -26,7 +26,11 @@ I'm Rian Prasetiyo, a passionate **Business Intelligence Analyst**. As a Busines
 </div>
 
 ## Top Projects
+-- [ETL Python](https://github.com/rayennn-bi/ETL_Python)
 
+  **Desc** : ETL Project: Automating Data Ingestion from CSV to PostgreSQL Staging Layer
+
+  **Tools**: Jupiter Notebook, Postgresql.
 - [Dashboard-Sales-and-Shipment-Performance](https://github.com/rayennn-bi/Dashboard-sales-and-shipment-performance)
 
   **Desc** : Developed an interactive sales and shipment performance dashboard using Power BI.
