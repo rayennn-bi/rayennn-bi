@@ -26,7 +26,7 @@ I'm Rian Prasetiyo, a passionate **Business Intelligence Analyst**. As a Busines
 </div>
 
 ## Top Projects
--- [ETL Python](https://github.com/rayennn-bi/ETL_Python)
+- [ETL Python](https://github.com/rayennn-bi/ETL_Python)
 
   **Desc** : ETL Project: Automating Data Ingestion from CSV to PostgreSQL Staging Layer
 
