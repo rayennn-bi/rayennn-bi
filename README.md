@@ -26,6 +26,11 @@ I'm Rian Prasetiyo, a passionate **Business Intelligence Analyst**. As a Busines
 </div>
 
 ## Top Projects
+- [Olist Data Engineering Pipeline](https://github.com/rayennn-bi/project-olist-pipeline)
+
+  **Desc** : End-to-end data pipeline built on the Brazilian E-Commerce Public Dataset by Olist — covering ingestion, streaming, transformation, warehousing, and dashboarding in a fully containerized environment.
+
+  **Tech**: Python · SQL · Apache Airflow · Apache Kafka · PySpark · PostgreSQL · Docker
 - [ETL Python](https://github.com/rayennn-bi/ETL_Python)
 
   **Desc** : ETL Project: Automating Data Ingestion from CSV to PostgreSQL Staging Layer
